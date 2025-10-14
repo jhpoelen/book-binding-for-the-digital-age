@@ -1,0 +1,13 @@
+#!/bin/bash
+#
+# generate html page and pdf slide show 
+
+pandoc\
+ -s\
+ -o slides.html\
+ README.md
+
+pandoc\
+ -t beamer\
+ -o slides.pdf\
+ README.md
