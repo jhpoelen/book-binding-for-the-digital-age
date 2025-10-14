@@ -274,23 +274,18 @@ Elton, Nomer, & Preston. (2025). Versioned Archive and Review of Biotic Interact
 
 ## Who or what keeps our Digital Biodiversity Data around? 
 
-a) ~~**the Data Fairy**~~
+a) ~~the Data Fairy~~
 
 b) **Awareness of the fragility of digital data.**
 
-c) Common sense data archiving and citation practices.
+c) **Common sense data archiving and citation practices.**
 
 
 ## How to keep our Digital Biodiversity Data around? 
 
-Suggest to:
+I've been using this Data Bill of Materials approach to track terrabytes of biodiversity data since Sept 2018, keeping identical copies across independent storage locations, and reusing their content.
 
-1. cite your *original* source data
-2. use **signed** data citations
-3. publish the data you produce
-4. republish the *original* data you use
-
-or... come up with another method to digitally bind datasets.
+### How do *you* intend keep our digital heritage around? 
 
 ## And Remember
 
