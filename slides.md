@@ -84,7 +84,7 @@ GBIF Secretariat cannot guarantee the quality or completeness of data, **nor doe
 
 ## Recent Reminders of Data Fairy Absence
 
- * **iDigBio** supported server infrastructure running the Symbiota Hosted Portals at ASU were compromised and taken offline 21 Jul 2025 and was said to be fully restored on 10 Oct 2025 after hard work by the Symbiota Support Hub team. The outage affected over 54 hosted collections. 
+ * Symbiota server infrastructure running the Symbiota Hosted Portals at Arizona State University (ASU) were compromised and taken offline 21 Jul 2025 and was said to be fully restored on 10 Oct 2025 after hard work by the Symbiota Support Hub team. The outage affected over 54 hosted collections. 
  * The Symbiota Collections of Arthropods Network (**SCAN: https://scan-bugs.org**) serving specimen occurrence records and images from over 100 North American arthropod collections for all arthropod taxa, was taken offline in 2025 with no plans to revive it.
  * 20 years since its inception and facilitating access to over 300k digitized biodiversity data works, the **Biodiversity Heritage Library** faces an uncertain future as it is set to lose their institutional sponsor, the Smithsonian, on 1 Jan 2026 ^[https://about.biodiversitylibrary.org/about/future-of-bhl/].  
 
